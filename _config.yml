@@ -1,12 +1,12 @@
 # Site
-name: "Sydney Novak"
+name: "Zach Peranich"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Welcome to my first website"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 # google_analytics: 
-disqus: 'sydnovak'
+#disqus: 'zachperanich'
 # mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
@@ -20,6 +20,12 @@ authors:
     email: sydnovak60@gmail.com
     twitter: https://twitter.com/sydnovak60
     description: "Aspiring blogist."
+  zach:
+    name: "Zach Peranich"
+    display_name: Zach
+    #avatar: 'assets/images/SydneyN.jpg'
+    email: ztperanich@gmail.com
+    description: "Zach"
 
 # Plugins
 plugins:
