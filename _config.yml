@@ -1,12 +1,12 @@
 # Site
 name: "Zach Peranich"
 title: "Mediumish"
-description: "Welcome to my first website"
+description: "Still trying to figure things out"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 # google_analytics: 
-#disqus: 'zachperanich'
+disqus: 'zperanich'
 # mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
@@ -14,18 +14,11 @@ permalink: /:title/
 # Authors
 authors:
   syd:
-    name: "Sydney Novak"
-    display_name: Sydney
-    avatar: 'assets/images/SydneyN.jpg'
-    email: sydnovak60@gmail.com
-    twitter: https://twitter.com/sydnovak60
-    description: "Aspiring blogist."
-  zach:
     name: "Zach Peranich"
     display_name: Zach
-    #avatar: 'assets/images/SydneyN.jpg'
+    avatar: 'assets/images/SydneyN.jpg'
     email: ztperanich@gmail.com
-    description: "Zach"
+    description: "Wherever this road may take me"
 
 # Plugins
 plugins:
