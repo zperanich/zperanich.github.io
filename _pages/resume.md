@@ -5,4 +5,5 @@ permalink: /resume
 comments: false
 ---
 
-Resume here.
+Please see the link below for a copy of my resume.
+<a href=./Zach/repos/zperanich.github.io/Zachary Peranich - Resume.pdf> Download Resume Here </a>
